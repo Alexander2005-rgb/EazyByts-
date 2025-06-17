@@ -10,3 +10,7 @@ EMAIL_PASS=your_email_password
 
 # username = shivendra16062005
 # password =vf7j6yY62HHRj7XU
+
+
+to run the frontend =type npm start
+to run the backend =type npm run server
